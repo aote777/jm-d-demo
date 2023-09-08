@@ -1,3 +1,5 @@
+> 用于演示jm D+ 2.0 的背靠背模式的调节方式 以及兼容尺寸
+
 # jm-d+2.0
 
 This template should help get you started developing with Vue 3 in Vite.
